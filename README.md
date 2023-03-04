@@ -4,8 +4,11 @@
  𝗛𝗶 𝗜❜𝗺 👋 𝗦𝗵𝗿𝗲𝘆𝗮𝗻𝘀𝗵 𝗩𝗮𝗹𝗮
 
 - 🔭 I’m currently working on Web Development
+
 - 🌱 I’m currently learning php
+
 - 👯 I’m looking to collaborate on ...
+
 - ⚡ Fun fact: I Love cricket
 
 <!--
