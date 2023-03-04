@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 ### 🧰Language And Tools
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/345d7ef1913e167127cb2360a013c29a9f8472c9590a5ec6c186bd04f2426a50/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f333039372f333039373030382e706e67"><img align="center" src="https://camo.githubusercontent.com/345d7ef1913e167127cb2360a013c29a9f8472c9590a5ec6c186bd04f2426a50/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f333039372f333039373030382e706e67" alt="C Language" height="50" width="50" data-canonical-src="https://cdn-icons-png.flaticon.com/128/3097/3097008.png" style="max-width: 100%;"></a>
-
----------------------------------------------------------
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
