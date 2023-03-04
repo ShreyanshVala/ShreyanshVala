@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning php
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **ShreyanshVala/ShreyanshVala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
