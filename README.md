@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![](https://visitcount.itsvg.in/api?id=ShreyanshVala&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
                                                     𝗛𝗶 𝗜❜𝗺 👋 𝗦𝗵𝗿𝗲𝘆𝗮𝗻𝘀𝗵 𝗩𝗮𝗹𝗮
 
@@ -82,7 +84,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshVala&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShreyanshVala&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
