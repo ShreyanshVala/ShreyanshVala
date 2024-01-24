@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Web Development
 
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning Reactjs
 
 - 👯 I’m looking to collaborate on ...
 
