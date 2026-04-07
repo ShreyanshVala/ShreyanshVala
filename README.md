@@ -3,7 +3,7 @@
 
 <center><h2><b>𝗛𝗶 𝗜❜𝗺 👋 𝗦𝗵𝗿𝗲𝘆𝗮𝗻𝘀𝗵 𝗩𝗮𝗹𝗮</b></h2></center>
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Frontend Web Development
 
 - 🌱 I’m currently learning Reactjs
 
