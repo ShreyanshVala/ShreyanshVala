@@ -12,11 +12,7 @@
 - 🤝 Open to collaboration on **Web Projects**  
 - ⚡ Fun fact: I love playing **Cricket 🏏**  
 
----
 
-
-
----
 
 ## 🧰 Tech Stack  
 
