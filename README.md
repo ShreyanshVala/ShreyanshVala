@@ -1,98 +1,80 @@
-### Hi there 👋
-[![](https://visitcount.itsvg.in/api?id=ShreyanshVala&icon=0&color=0)](https://visitcount.itsvg.in)
+# 👋 Hi, I'm Shreyansh Vala  
 
-<center><h2><b>𝗛𝗶 𝗜❜𝗺 👋 𝗦𝗵𝗿𝗲𝘆𝗮𝗻𝘀𝗵 𝗩𝗮𝗹𝗮</b></h2></center>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Learner;JavaScript+Lover;Cricket+Fan+🏏" />
+</p>
 
-- 🔭 I’m currently working on Frontend Web Development
+---
 
-- 🌱 I’m currently learning Reactjs
+## 🚀 About Me  
+- 🔭 Currently working on **Frontend Web Development**  
+- 🌱 Learning **React.js & Advanced JavaScript**  
+- 🤝 Open to collaboration on **Web Projects**  
+- ⚡ Fun fact: I love playing **Cricket 🏏**  
 
-- 👯 I’m looking to collaborate on ...
+---
 
-- ⚡ Fun fact: I Love cricket
+## 🌐 Connect with me  
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<!--
-**ShreyanshVala/ShreyanshVala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-----------------------------------------------------
-<img align="center" alter="coding" width="800" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+### 💻 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,ts" />
+</p>
 
-----------------------------------------------------
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php" />
+</p>
 
+### 🛠️ Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,redux" />
+</p>
 
-### 🧰Language And Tools
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+---
 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+## 📊 GitHub Stats  
 
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyanshVala&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyanshVala&theme=tokyonight" />
+</p>
 
-</td><td valign="top" width="33%">
+---
 
+## 🏆 Achievements  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshVala&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
-### Backend  
-<div align="center">  
+---
 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+## 📈 Visitor Count  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ShreyanshVala&icon=5&color=6" />
+</p>
 
+---
 
-
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-
-
- 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 🎯 Current Focus  
+```js
+const Shreyansh = {
+  code: ["JavaScript", "TypeScript"],
+  frontend: ["React", "HTML", "CSS", "Bootstrap"],
+  backend: ["Node.js", "Express", "MongoDB"],
+  goal: "Become Full Stack Developer 🚀"
+};
